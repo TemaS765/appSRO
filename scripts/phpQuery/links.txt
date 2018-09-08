@@ -1,0 +1,21 @@
+риестер сро
+http://reestr.nostroy.ru/
+
+исключенные сро
+http://reestr.nostroy.ru/?u.registrationnumber=&u.fulldescription=&u.place=&brn.id=&fd.id=&u.enabled=false
+
+страницы
+http://reestr.nostroy.ru/?u_registrationnumber=&u_fulldescription=&u_place=&brn_id=&fd_id=&u_enabled=false&sort=u.registrationnumber&direction=ASC&page=3
+
+клиенты СРО
+http://reestr.nostroy.ru/reestr/clients/323/members
+
+информация об организации
+http://reestr.nostroy.ru/reestr/clients/104/members/24544271
+
+
+
+
+ $page = (n / 20);
+ $n_last_page = n - ($page * 20);
+ $page += 1;

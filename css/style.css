@@ -1,0 +1,62 @@
+#forma {
+    width: 80%;
+    background: linear-gradient(to top,#e6e6e6,#f6f6f6);
+    margin: 30px auto 30px auto;
+    border-radius: 14px;
+    padding: 10px;
+    box-shadow: 0px 6px 10px 5px #bab9bb;
+
+}
+#btn_start {
+    width: 100px;
+    height: 54px;
+    outline: none;
+    border-radius: 5px;
+    background: linear-gradient(to top, #008ea6,#4bc2cf);
+    border: 2px solid #2198a5;
+    color: #fff;
+    font-size: 15pt;
+    font-weight: bolder;
+}
+
+#url_pole {
+    width: 88%;
+    height: 30px;
+    color: #7f7f7f;
+    resize: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 10px;
+    font-size: 14pt;
+
+}
+
+body{
+    background-color: #efefef;
+}
+
+table {
+    margin: auto;
+    border: 10px solid #ff9576;
+    border-radius: 11px;
+    border-spacing: 0;
+    border-bottom: none;
+}
+
+td, th{
+    border-bottom: 10px solid #ff9576;
+    padding: 10px 20px;
+}
+
+#log {
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 30%;
+    text-align: left;
+    margin: 30px auto;
+    padding: 15px;
+}
+
+#log p {
+    margin: 0px;
+}
